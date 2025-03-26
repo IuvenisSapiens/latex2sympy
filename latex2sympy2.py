@@ -1,6 +1,6 @@
 import sympy
 import re
-from sympy import matrix_symbols, simplify, factor, expand, apart, expand_trig
+from sympy import simplify
 from antlr4 import InputStream, CommonTokenStream
 from antlr4.error.ErrorListener import ErrorListener
 
